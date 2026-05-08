@@ -1,4 +1,4 @@
-#Domínio do espaço
+#Constelação dos Guardiões
 import xml.parsers
 import posix
 import OpenGL.GL as gl
